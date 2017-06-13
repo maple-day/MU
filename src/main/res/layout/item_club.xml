@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_margin="4px"
+    android:padding="4px"
+    android:elevation="14px"
+    android:layout_height="wrap_content">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <TextView
+            android:id="@+id/club_tv_name"
+            android:layout_margin="25px"
+            android:padding="5px"
+            android:textSize="41px"
+            android:layout_width="match_parent"
+            android:text="名  称：运城学院吉他协会 "
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/club_tv_leader"
+            android:layout_marginLeft="25px"
+            android:textSize="41px"
+            android:layout_width="match_parent"
+            android:text="负责人：张秀全  "
+            android:layout_height="wrap_content" />
+        <TextView
+            android:id="@+id/club_tv_sunmary"
+            android:layout_margin="25px"
+            android:padding="5px"
+            android:textSize="41px"
+            android:clickable="true"
+            android:layout_width="match_parent"
+            android:text="简　介：普及吉他音乐知识， 营造学院民谣氛围！在学院团委的大力支持和运城黎俊吉他行的热情帮助下， 运城学院吉他协会由生命科学系学生发起，于2002年11月5日成立。几年来，吉他协会的队伍不断壮大，所有成员都拿起了吉他，唱起了民谣，走进了音乐殿堂。协会宗旨：“推广和普及吉他演奏艺术，传播吉他音乐文化，培养发掘吉他演奏人才”。协会服务原则：实事求是，诚信于人，免费学吉他。希望本是无所谓有无所谓无的，只是有了行动希望才能实现。吉他真的就是那么简单，您其实只需要一颗热心和生命的激情，就能写出灿烂辉煌，多彩的人生！让我们来共同实现我们心中的吉他梦吧！ "
+            android:layout_height="wrap_content" />
+    </LinearLayout>
+</android.support.v7.widget.CardView>

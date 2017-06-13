@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#4DA7F2</color>
+    <color name="colorPrimaryDark">#4DA7F2</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="home_back_unselected">#878787</color>
+    <color name="home_back_selected">#18B4ED</color>
+    <color name="home_buttom_pressed">#999999</color>
+    <color name="home_buttom_unpressed">#FFFFFF</color>
+
+    <color name="home">#2ED26C</color>
+    <color name="tabSelectedTextColor">#2F2F2F</color>
+    <color name="barColor" >#FFFFFF</color>
+    <color name="topp" >#4DA7F2</color>
+    <color name="card_color" >#20000000</color>
+
+    <color name="color_divider">#CCEBFB</color>
+    <color name="color_primary_text">#000000</color>
+    <color name="color_secondary_text">#D4DBEE</color>
+
+</resources>

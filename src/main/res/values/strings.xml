@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">MU</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string-array name="tab_home">
+        <!--学院新闻-->
+        <item>学院新闻</item>
+        <item>通知公告</item>
+        <item>学术动态</item>
+        <item>系部信息</item>
+        <!--学院概况-->
+        <item>学院简介</item>
+        <item>历史沿革</item>
+        <!--校园文化-->
+        <item>学生社团</item>
+        <!--人才培养-->
+        <item>专业介绍</item>
+    </string-array>
+    <!--<item>教务常用下载</item><item>给院长写信</item> <item>教务通知通告</item>-->
+    <string-array name="tab_news">
+        <item>社会新闻</item>
+        <item>IT资讯</item>
+        <item>国内新闻</item>
+        <item>国际新闻</item>
+        <item>奇闻异事</item>
+        <!--<item>美女图片</item>-->
+        <item>体育新闻</item>
+        <item>科技新闻</item>
+        <item>军事新闻</item>
+        <item>创业新闻</item>
+        <item>旅游资讯</item>
+        <item>娱乐新闻</item>
+    </string-array>
+    <string-array name="title_live">
+        <item>LOL</item>
+        <item>DODA2</item>
+        <item>旅游资讯</item>
+        <item>娱乐新闻</item>
+    </string-array>
+
+</resources>
